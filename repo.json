@@ -1,0 +1,21 @@
+[
+    {
+        "Author": "Renamer",
+        "Name": "Renamer",
+        "Description": "Renames Things",
+        "InternalName": "Renamer",
+        "AssemblyVersion": "0.0.0.1",
+        "TestingAssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/Estrogen-Rocks/renamer/new/main",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "DownloadLinkInstall": "https://github.com/Estrogen-Rocks/renamer/raw/main/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Estrogen-Rocks/renamer/raw/main/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Estrogen-Rocks/renamer/raw/main/latest.zip",
+    }
+]
