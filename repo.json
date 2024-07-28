@@ -8,7 +8,7 @@
         "TestingAssemblyVersion": "0.0.0.2",
         "RepoUrl": "https://github.com/Estrogen-Rocks/renamer/new/main",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 0,
